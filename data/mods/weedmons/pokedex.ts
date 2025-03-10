@@ -5,7 +5,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		baseSpecies: "Rattata",
 		forme: "Alola",
 		types: ["Dark", "Normal"],
-		baseStats: {hp: 30, atk: 56, def: 35, spa: 25, spd: 35, spe: 72},
+		baseStats: {hp: 31, atk: 56, def: 35, spa: 25, spd: 35, spe: 72},
 		abilities: {0: "Gluttony", 1: "Hustle"},
 		//Thick Fat
 		heightm: 0.3,

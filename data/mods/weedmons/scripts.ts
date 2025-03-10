@@ -5,6 +5,6 @@ export const Scripts: {[k: string]: ModdedBattleScriptsData} = {
 		// for micrometas to only show custom tiers
 		excludeStandardTiers: true,
 		// only to specify the order of custom tiers
-		customTiers: ['Weedmons', 'Weedmons NFE', 'Weedmons LC'],
+		customTiers: ['Weedmons OU', 'Weedmons NFE', 'Weedmons LC', 'Weedmons Uber'],
 	},
 };
